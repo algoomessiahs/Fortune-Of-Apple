@@ -1,0 +1,5 @@
+
+
+Your initial balance was: 16106.599999999527And now you have 714468.5000003446
+You played a 100000games with the stake 30 Each game
+Games: 100000 Wins: 0 Losses: 100000
